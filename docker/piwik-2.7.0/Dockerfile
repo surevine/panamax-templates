@@ -1,6 +1,6 @@
 FROM tutum/apache-php
 
-ENV PIWIK_VERSION 2.6.1
+ENV PIWIK_VERSION 2.7.0
 
 RUN rm -rf ./*
 RUN mkdir tmp
