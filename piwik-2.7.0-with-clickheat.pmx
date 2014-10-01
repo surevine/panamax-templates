@@ -1,5 +1,5 @@
 
-name: Piwik v2.7.0
+name: Piwik v2.7.0 with ClickHeat plugin
 description: a template for running Piwik open source analytics platform
 keywords: piwik, analytics, public
 recommended: false
